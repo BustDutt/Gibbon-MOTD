@@ -1,6 +1,6 @@
-Monkey God: MuffCabbage
-Monkey King: Alpha
+Gibbon God: MuffCabbage
+Gibbon King: Alpha
 Admins: Zvvack, and Waze
-Moderators: GoCart, Qauge, Mr. Exploded, and WarnedRTG
-Trial Moderators: autumn, Droid, Hxz, Nutty, and vo1d 
+Moderators: GoCart, Qauge, Mr. Exploded, and WarnedRTG, autumn, Hxz, Droid, Nutty
+Trial Moderators: None 
 Sound Design: 2tsvr
